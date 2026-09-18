@@ -1,0 +1,13 @@
+# Сборка Maven
+target/
+
+# IntelliJ IDEA: настройки восстанавливаются из pom.xml
+.idea/
+*.iml
+out/
+
+# macOS
+.DS_Store
+
+# Секреты: локальные переменные окружения (появятся вместе с AppConfig)
+.env
